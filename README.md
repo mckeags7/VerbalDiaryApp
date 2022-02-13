@@ -38,7 +38,7 @@ HTML,Bootstrap,JavaScript,AJAX,node.js,Heroku</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='use'>How to Use the Project</h3>
-<p>To use the project go to https://, which will bring up the app. Click the Get Started button on the home page to go to the notes page. On the notes page if you have previously saved notes they will display down the left side of the page. Enter a title by clicking in the box and overwriting the placeholder text, repeat the step for the note content. Click the save button in the upper right hand corner and your note will appear on the left side of the screen. Click on a note to view and click the trash can button to delete the note. Clicking on VerbalDiary in the upper left hand corner will take you back to the home page.<p><br>
+<p>To use the project go to https://verbal-diary-heroku.herokuapp.com/, which will bring up the app. Click the Get Started button on the home page to go to the notes page. On the notes page if you have previously saved notes they will display down the left side of the page. Enter a title by clicking in the box and overwriting the placeholder text, repeat the step for the note content. Click the save button in the upper right hand corner and your note will appear on the left side of the screen. Click on a note to view and click the trash can button to delete the note. Clicking on VerbalDiary in the upper left hand corner will take you back to the home page.<p><br>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 <br>
 <hr color= "slateblue" noshade>
@@ -64,7 +64,10 @@ Please make sure to update tests as appropriate.</p><br>
 <hr color= "slateblue" noshade>
 
 <h3 id='screenshot'>Screenshots</h3>
-    
+    ![verbal-diary-app](https://user-images.githubusercontent.com/93490277/153773764-fcdfc048-1a4a-4c77-a356-f4a881bc6672.png)
+
+    ![verbal-diary-app 1](https://user-images.githubusercontent.com/93490277/153773788-067c470e-0b14-4f36-9243-bdb02b687e1b.png)
+
 </body>
 </html> 
 
