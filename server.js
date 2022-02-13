@@ -59,7 +59,4 @@ app.delete("/api/notes/:id", function(req, res) {
     res.json(savedNotes);
 })
 
-// Edit Note
-app.
-
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
