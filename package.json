@@ -1,5 +1,5 @@
 {
-  "name": "note-taker",
+  "name": "verbal-diary",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JulieAnn2330/note-taker-app.git"
+    "url": "git+https://github.com/mckeags7/VerbalDiaryApp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JulieAnn2330/note-taker/issues"
+    "url": "https://github.com/mckeags7/VerbalDiaryApp/issues"
   },
-  "homepage": "https://github.com/JulieAnn2330/note-taker#readme",
+  "homepage": "https://github.com/mckeags7/VerbalDiaryApp#readme",
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
