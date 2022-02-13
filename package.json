@@ -1,0 +1,29 @@
+{
+    "name": "verbal-diary",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon index",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mckeags7/VerbalDiaryApp.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://https://github.com/mckeags7/VerbalDiaryApp/issues"
+    },
+    "homepage": "https://github.com/mckeags7/VerbalDiaryApp#readme",
+    "dependencies": {
+      "express": "^4.17.1",
+      "inquirer": "^7.3.3",
+      "nodemon": "^2.0.4",
+      "uuid": "^8.3.0"
+    }
+  }
+  
